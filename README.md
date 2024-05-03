@@ -3,9 +3,9 @@ Arch Linux based operating system featuring Hyprland
 
 > check **releases** section for prebuild ISO!
 
-- **main** branch is latest stable release
+- **main** branch is development latest (unstable)
 
-- **dev** branch is development latest (unstable)
+- **iso** branch is latest stable release
 
 ## Preview
 coming soon..
