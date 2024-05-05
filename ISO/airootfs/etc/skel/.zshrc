@@ -10,7 +10,6 @@ compinit
 alias ls="ls --color=auto"
 alias grep="grep --color=auto"
 alias ip="ip --color=auto"
-alias cat="bat -Pp"
 alias tree="tree -C"
 
 # Custom Alias

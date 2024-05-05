@@ -152,6 +152,8 @@ hyprlock
 waybar
 kitty
 pulseaudio
+dolphin
+wofi
 
 # QT
 qt5-base
