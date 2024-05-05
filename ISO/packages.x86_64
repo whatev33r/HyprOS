@@ -3,6 +3,7 @@ archlinux-keyring
 
 # Base system
 amd-ucode
+intel-ucode
 b43-fwcutter
 base
 base-devel
@@ -43,7 +44,6 @@ git
 hdparm
 hyperv
 htop
-intel-ucode
 iw
 iwd
 jfsutils
