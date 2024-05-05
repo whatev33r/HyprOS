@@ -37,3 +37,6 @@ mkarchiso -v -w work HyprOS-ISO/ISO
 > To access locally builded packages etc. on the ISO put files inside the [personal](ISO/airootfs/personal) directory.
  
 > To adjust the available Cowspace (for live usage) change the **cow_spacesize** parameter in the [grub config](ISO/grub/grub.cfg).
+
+## VM Notice
+When using a VM, make sure you have 3D acceleration enabled in your virtio config (virt-manager) otherwise Hyprland **will not work**.
