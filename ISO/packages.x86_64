@@ -159,6 +159,7 @@ xfce4-pulseaudio-plugin
 hyprland
 hyprpaper
 hyprlock
+waybar
 
 # Theme
 ttf-cascadia-code-nerd
