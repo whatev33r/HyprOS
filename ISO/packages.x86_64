@@ -143,28 +143,15 @@ zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
 
-# Env
-xfce4
-sddm
-dex
-libxinerama
-xorg-xkill
-xorg-xrdb
-xterm
-pulseaudio
-pavucontrol
-xfce4-pulseaudio-plugin
-
 # HyprOS
+sddm
+wayland
 hyprland
 hyprpaper
 hyprlock
 waybar
-
-# Theme
-ttf-cascadia-code-nerd
-gtk-engine-murrine
-gnome-themes-extra
+kitty
+pulseaudio
 
 # QT
 qt5-base
