@@ -26,8 +26,6 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-
-    │   ├── hv_fcopy_daemon.service -> /usr/lib/systemd/system/hv_fcopy_daemon.service
 efitools
 espeakup
 ethtool
